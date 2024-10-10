@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WebtoonInfoApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+
+        <!-- Primary brand color -->
+        <color name="colorPrimary">#3B99D9</color>
+
+        <!-- Primary dark brand color -->
+        <color name="colorPrimaryDark">#006BB3</color>
+
+        <!-- Primary light brand color -->
+        <color name="colorPrimaryLight">#81C3E8</color>
+
+        <!-- Accent color -->
+        <color name="colorAccent">#FF6F61</color>
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.WebtoonInfoApp.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen_background</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+</resources>

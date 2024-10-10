@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebtoonInfoApp</string>
+    <string name="webtoon_image">Webtoon Image</string>
+    <string name="back_button_desc">Back Button</string>
+    <string name="navigation_drawer_open">Navigation Drawer Open</string>
+    <string name="navigation_drawer_close">Navigation Drawer Close</string>">
+</resources>

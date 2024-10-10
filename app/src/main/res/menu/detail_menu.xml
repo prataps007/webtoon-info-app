@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_watch_later"
+        android:title="Add to Watch Later"
+        android:icon="@drawable/ic_watch_later"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_add_to_favorites"
+        android:title="Add to Favorites"
+        android:icon="@drawable/ic_favorite"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rate_this_webtoon"
+        android:title="Rate this Webtoon"
+        android:icon="@drawable/ic_rate"
+        app:showAsAction="never" />
+</menu>
